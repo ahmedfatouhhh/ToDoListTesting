@@ -1,5 +1,11 @@
 # ToDoListTesting
 Testing a simple to do list application using manual and automation testing techniques
+
+# Please unzip the following files to access their contents:
+- documents.zip → Contains Test Plan, Bug Report, Test Cases
+- automation.zip → Contains Selenium scripts and the recorded video
+- app.zip → Contains the ToDo List HTML file
+
 ## Tools Used
 - HTML (ToDo List App)
 - Selenium WebDriver (Java)
